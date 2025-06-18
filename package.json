@@ -1,0 +1,20 @@
+{
+  "name": "futurevisionmachines-website",
+  "version": "1.0.0",
+  "description": "FutureVisionMachines - Professional Company Website",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build required'",
+    "start": "echo 'Static site - serve index.html'"
+  },
+  "keywords": [
+    "static-site",
+    "business-website",
+    "technology"
+  ],
+  "author": "FutureVisionMachines",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
